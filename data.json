@@ -1,0 +1,57 @@
+[
+    {
+        "address": "4503 Amerivan Ct, Louisville, 40299, Kentucky, United States",
+        "lng": "-85.599862",
+        "lat": "38.182313"
+    },
+    {
+        "address": "525 W Broadway, Louisville, 40202, Kentucky, United States",
+        "lng": "-85.760889",
+        "lat": "38.246261"
+    },
+    {
+        "address": "Cincinnati, 45232, Ohio, United States",
+        "lng": "-84.508817",
+        "lat": "39.165185"
+    },
+    {
+        "address": "Dayton, 45410, Ohio, United States",
+        "lng": "-84.168088",
+        "lat": "39.738543"
+    },
+    {
+        "address": "Indiana, United States",
+        "lng": "-86.169738",
+        "lat": "39.96005"
+    },
+    {
+        "address": "Fountain City, 47341, Indiana, United States",
+        "lng": "-84.894777",
+        "lat": "39.95911"
+    },
+    {
+        "address": "Pittsburgh, 15213, Pennsylvania, United States",
+        "lng": "-79.956929",
+        "lat": "40.446855"
+    },
+    {
+        "address": "Detroit, 48210, Michigan, United States",
+        "lng": "-83.112274",
+        "lat": "42.352736"
+    },
+    {
+        "address": "Lexington, 40502, Kentucky, United States",
+        "lat": "38.02543",
+        "lng": "-84.471597"
+    },
+    {
+        "address": "Sanders, 41083, Kentucky, United States",
+        "lat": "38.676109",
+        "lng": "-84.953312"
+    },
+    {
+        "address": "State College, 16801, Pennsylvania, United States",
+        "lat": "40.788505",
+        "lng": "-77.859375"
+    }
+]
